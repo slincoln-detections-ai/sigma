@@ -3586,3 +3586,13 @@ https://github.com/pr0xylife/Pikabot/blob/7f7723a74ca325ec54c6e61e076acce9a4b205
 https://www.welivesecurity.com/2019/04/09/oceanlotus-macos-malware-update/
 https://peterjson.medium.com/reproducing-the-proxyshell-pwn2own-exploit-49743a4ea9a1
 https://petrusviet.medium.com/dancing-on-the-architecture-of-vmware-workspace-one-access-eng-ad592ae1b6dd
+https://unit42.paloaltonetworks.com/unsigned-dlls/?web_view=true
+https://malware.guide/browser-hijacker/remove-onelaunch-virus/
+https://www.aon.com/cyber-solutions/aon_cyber_labs/linux-based-inter-process-code-injection-without-ptrace2/
+https://www.verfassungsschutz.de/SharedDocs/publikationen/DE/cyberabwehr/2024-02-19-joint-cyber-security-advisory-englisch.pdf?__blob=publicationFile&v=2
+https://cloud.google.com/access-context-manager/docs/audit-logging
+https://bazaar.abuse.ch/browse/signature/RaspberryRobin/
+https://www.group-ib.com/resources/threat-research/silence_2.0.going_global.pdf
+https://www.hexacorn.com/blog/2023/06/07/this-lolbin-doesnt-exist/
+https://confluence.atlassian.com/bitbucketserver/audit-log-events-776640423.html
+https://github.com/yarrick/iodine
